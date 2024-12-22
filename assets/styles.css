@@ -1,0 +1,13 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: white;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden; 
+}
+
+button{
+    cursor: pointer;
+}
